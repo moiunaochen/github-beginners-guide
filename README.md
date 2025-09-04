@@ -106,7 +106,7 @@ Git 是一种分布式版本控制系统，最初由 Linux 之父 林纳斯·托
 
 然后会提示设置 用户名 和 邮箱
 
-<img width="443" height="119" alt="image" src="https://github.com/user-attachments/assets/22bb504b-0abf-4abd-a84f-23c742d7fa8c" />
+<img width="443" height="119" alt="image" src="https://github.com/user-attachments/assets/22bb504b-0abf-4abd-a84f-23c742d7fa8c" />  
 
 （一般不用看）[Git详细配置界面](https://git-scm.com/book/zh/v2/%e8%b5%b7%e6%ad%a5-%e5%88%9d%e6%ac%a1%e8%bf%90%e8%a1%8c-Git-%e5%89%8d%e7%9a%84%e9%85%8d%e7%bd%ae)  
 
@@ -122,7 +122,7 @@ Git 是一种分布式版本控制系统，最初由 Linux 之父 林纳斯·托
 
 然后就可以查看历史更新记录了
 
-<img width="1286" height="638" alt="image" src="https://github.com/user-attachments/assets/98c207c1-6e14-4d2d-acc0-9072b591e652" />
+<img width="1286" height="638" alt="image" src="https://github.com/user-attachments/assets/98c207c1-6e14-4d2d-acc0-9072b591e652" />  
  
 接下来将项目发布到GitHub会跳转到浏览器授权，直接同意就行
 
@@ -132,7 +132,7 @@ Git 是一种分布式版本控制系统，最初由 Linux 之父 林纳斯·托
 
 然后会出现两个选项，公开和私有，选择公开
 
-<img width="951" height="444" alt="image" src="https://github.com/user-attachments/assets/0e9de157-3a37-404e-8cf9-24aa725a31ef" />  
+<img width="951" height="444" alt="image" src="https://github.com/user-attachments/assets/0e9de157-3a37-404e-8cf9-24aa725a31ef" />    
 
 一般情况这里会上传失败，因为没有设置 代理
 
