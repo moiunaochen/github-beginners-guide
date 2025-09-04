@@ -51,11 +51,31 @@
 
 另外： gitignore: 不需要进行版本管理的仓库类型，对应生成文件.gitignore license: 证书类型，对应生成文件LICENSE
 
-<img width="1362" height="1277" alt="image" src="https://github.com/user-attachments/assets/79804d64-966d-45eb-9914-987b0d489a79" />  
+<img width="1362" height="1277" alt="image" src="https://github.com/user-attachments/assets/79804d64-966d-45eb-9914-987b0d489a79" />    
 
-# 四. 安装Git
+# 四. 什么是Git
 
+Git 是一种分布式版本控制系统，最初由 Linux 之父 林纳斯·托瓦兹（Linus Torvalds） 在 2005 年创建，用来高效管理 Linux 内核的开发。它现在已经成为全球最流行的代码版本管理工具之一，也是 GitHub、GitLab 等平台的底层核心。
 
+## 🛠 核心作用
+- 版本控制：记录文件（尤其是代码）在不同时间的修改历史，可以随时回溯到任意版本。
+
+- 多人协作：支持多人同时开发同一项目，并能合并不同人的修改。
+
+- 分支管理：可以创建、切换、合并分支，让不同功能的开发互不干扰。
+
+- 离线工作：因为是分布式，每个人的电脑上都有完整的版本库，即使没联网也能提交、查看历史。
+
+你可以把它理解为，游戏存档
+
+# 五. 安装Git
+进入[Git下载界面](https://git-scm.com/downloads)  以Windows为例
+
+<img width="1075" height="860" alt="image" src="https://github.com/user-attachments/assets/2db57a0b-d7c2-45c8-a56c-1ed35a25baaf" />  
+
+下载后双击运行，直接安装，在安装过程中直接默认选项即可。
+
+检查Git是否安装成功
 
 
 
