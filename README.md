@@ -21,7 +21,7 @@
 - 社交功能：关注（Follow）、收藏（Star）、派生（Fork）项目，形成开发者社区。
 
 ## 🌍 发展与现状
-- 成立时间：2008 年，由 Tom Preston-Werner、Chris Wanstrath 等人创立。    
+- 成立时间：2008 年，由 Tom Preston-Werner、Chris Wanstrath 等人创立。      
 
 - 收购：2018 年被微软以 75 亿美元收购。
 
@@ -34,4 +34,4 @@
 
 # 三. 创建仓库
 （注意：由于我们是免费用户，因此只能创建公共仓库）
-<img width="749" height="406" alt="image" src="https://github.com/user-attachments/assets/c29d5b4c-7489-41d5-a181-2acb14ad9aa1" />  
+![](https://raw.githubusercontent.com/moiunaochen/github-beginners-guide/refs/heads/main/assets/1.png)  
