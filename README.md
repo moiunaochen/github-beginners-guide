@@ -34,4 +34,26 @@
 
 # 三. 创建仓库
 （注意：由于我们是免费用户，因此只能创建公共仓库）
-![](https://raw.githubusercontent.com/moiunaochen/github-beginners-guide/refs/heads/main/assets/1.png)  
+
+创建一个新仓库（点击右上角头像旁的"+"，选择"New repository"）
+
+![创建新仓库](https://raw.githubusercontent.com/moiunaochen/github-beginners-guide/refs/heads/main/assets/1.png)
+
+（1）"Repository name"是为自己的库起一个库名 
+
+（2）"Description"是对自己的库进行一个简单的描述 
+
+（3）选择仓库权限为"Public"，即建立公共存储库 
+
+（4）可以选择"Initialize this repository with a README" 
+
+（5）点击"Create repository"，创建存储库 
+
+另外： gitignore: 不需要进行版本管理的仓库类型，对应生成文件.gitignore license: 证书类型，对应生成文件LICENSE
+
+<img width="1362" height="1277" alt="image" src="https://github.com/user-attachments/assets/79804d64-966d-45eb-9914-987b0d489a79" />  
+
+
+
+
+
