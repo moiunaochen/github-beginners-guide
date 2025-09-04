@@ -71,11 +71,58 @@ Git 是一种分布式版本控制系统，最初由 Linux 之父 林纳斯·托
 # 五. 安装Git
 进入[Git下载界面](https://git-scm.com/downloads)  以Windows为例
 
-<img width="1075" height="860" alt="image" src="https://github.com/user-attachments/assets/2db57a0b-d7c2-45c8-a56c-1ed35a25baaf" />  
+<img width="974" height="450" alt="image" src="https://github.com/user-attachments/assets/da757ae7-258a-4e05-9cc4-198f423f09d1" />
 
 下载后双击运行，直接安装，在安装过程中直接默认选项即可。
 
-检查Git是否安装成功
+检查Git是否安装成功，输入 `git --version`
+
+<img width="600" height="323" alt="image" src="https://github.com/user-attachments/assets/93867004-4c78-4a50-bcef-f959819ed78b" />  
+
+# 六. 配置Git  
+以VS Code为例  
+
+进入[VS Code下载界面](https://code.visualstudio.com/)
+
+<img width="1321" height="757" alt="image" src="https://github.com/user-attachments/assets/0b8b026e-84c8-451e-8939-05c9ef2f09a3" />
+
+下载后双击运行，直接安装，在安装过程中直接默认选项即可。
+
+在VS Code中创建一个项目，项目文件夹下创建一个示例文件，用于测试
+
+<img width="1130" height="502" alt="image" src="https://github.com/user-attachments/assets/98db981a-f18c-44d6-beb2-8981b888ff75" />  
+
+然后点击初始化仓库
+
+<img width="1504" height="785" alt="image" src="https://github.com/user-attachments/assets/1265a8a2-0302-4c06-b1b0-2d8ac232e0f3" />  
+
+点击提交存档
+
+<img width="1545" height="748" alt="image" src="https://github.com/user-attachments/assets/b7b69c02-4cdd-4787-9443-7778a7e5ed56" />  
+
+点击总是
+
+<img width="455" height="146" alt="image" src="https://github.com/user-attachments/assets/0d9fd249-8113-4311-a0a6-b5626add9142" />  
+
+然后会提示设置 用户名 和 邮箱
+
+<img width="443" height="119" alt="image" src="https://github.com/user-attachments/assets/22bb504b-0abf-4abd-a84f-23c742d7fa8c" />
+
+（一般不用看）[Git详细配置界面](https://git-scm.com/book/zh/v2/%e8%b5%b7%e6%ad%a5-%e5%88%9d%e6%ac%a1%e8%bf%90%e8%a1%8c-Git-%e5%89%8d%e7%9a%84%e9%85%8d%e7%bd%ae)  
+
+<img width="1032" height="804" alt="image" src="https://github.com/user-attachments/assets/a096562b-4134-45d7-b3bb-a2bbc83cffc5" />  
+
+`git config --global user.name "John Doe"`
+
+`git config --global user.email johndoe@example.com`  
+
+在终端输入以上两条命令（名字 和 邮箱 要替换为自己 GitHub的名称邮箱）
+
+<img width="890" height="543" alt="image" src="https://github.com/user-attachments/assets/8037bba9-5cdc-4001-8d2e-5b659c7f6242" />  
+
+然后就可以成功发布，并可以查看历史更新记录了
+
+<img width="1281" height="647" alt="image" src="https://github.com/user-attachments/assets/60f25243-3435-4623-a767-e3398942e426" />
 
 
 
