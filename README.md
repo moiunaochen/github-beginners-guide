@@ -34,4 +34,4 @@
 
 # 三. 创建仓库
 （注意：由于我们是免费用户，因此只能创建公共仓库）
-<img width="749" height="406" alt="image" src="https://github.com/user-attachments/assets/c29d5b4c-7489-41d5-a181-2acb14ad9aa1" />
+<img width="749" height="406" alt="image" src="https://github.com/user-attachments/assets/c29d5b4c-7489-41d5-a181-2acb14ad9aa1" />  
