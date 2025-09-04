@@ -120,10 +120,21 @@ Git 是一种分布式版本控制系统，最初由 Linux 之父 林纳斯·托
 
 <img width="890" height="543" alt="image" src="https://github.com/user-attachments/assets/8037bba9-5cdc-4001-8d2e-5b659c7f6242" />  
 
-然后就可以成功发布，并可以查看历史更新记录了
+然后就可以查看历史更新记录了
 
-<img width="1281" height="647" alt="image" src="https://github.com/user-attachments/assets/60f25243-3435-4623-a767-e3398942e426" />
+<img width="1286" height="638" alt="image" src="https://github.com/user-attachments/assets/98c207c1-6e14-4d2d-acc0-9072b591e652" />
+ 
+接下来将项目发布到GitHub会跳转到浏览器授权，直接同意就行
 
+<img width="781" height="582" alt="image" src="https://github.com/user-attachments/assets/ffb01567-4bd5-4e24-ab24-20dbaf21e66b" />  
 
+<img width="640" height="489" alt="image" src="https://github.com/user-attachments/assets/8157903e-efd7-49ac-8175-9b8c31276bab" />  
 
+然后会出现两个选项，公开和私有，选择公开
+
+<img width="951" height="444" alt="image" src="https://github.com/user-attachments/assets/0e9de157-3a37-404e-8cf9-24aa725a31ef" />  
+
+一般情况这里会上传失败，因为没有设置 代理
+
+<img width="652" height="210" alt="image" src="https://github.com/user-attachments/assets/972dc3be-b7ae-4211-bb13-fad0241e0439" />
 
