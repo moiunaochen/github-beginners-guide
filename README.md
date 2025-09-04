@@ -66,7 +66,7 @@ Git 是一种分布式版本控制系统，最初由 Linux 之父 林纳斯·托
 
 - 离线工作：因为是分布式，每个人的电脑上都有完整的版本库，即使没联网也能提交、查看历史。
 
-你可以把它理解为，游戏存档
+你可以把它理解为，游戏存档。
 
 # 五. 安装Git
 进入[Git下载界面](https://git-scm.com/downloads)  以Windows为例
@@ -88,31 +88,29 @@ Git 是一种分布式版本控制系统，最初由 Linux 之父 林纳斯·托
 
 下载后双击运行，直接安装，在安装过程中直接默认选项即可。
 
-在VS Code中创建一个项目，项目文件夹下创建一个示例文件，用于测试
+在VS Code中创建一个项目，项目文件夹下创建一个示例文件，用于测试。
 
 <img width="1130" height="502" alt="image" src="https://github.com/user-attachments/assets/98db981a-f18c-44d6-beb2-8981b888ff75" />  
 
-然后点击初始化仓库
+然后点击初始化仓库。
 
 <img width="1504" height="785" alt="image" src="https://github.com/user-attachments/assets/1265a8a2-0302-4c06-b1b0-2d8ac232e0f3" />  
 
-点击提交存档
+点击提交存档。
 
 <img width="1545" height="748" alt="image" src="https://github.com/user-attachments/assets/b7b69c02-4cdd-4787-9443-7778a7e5ed56" />  
 
-点击总是
+点击总是。
 
 <img width="455" height="146" alt="image" src="https://github.com/user-attachments/assets/0d9fd249-8113-4311-a0a6-b5626add9142" />  
 
-然后会提示设置 用户名 和 邮箱
+然后会提示设置 用户名 和 邮箱。
 
 <img width="443" height="119" alt="image" src="https://github.com/user-attachments/assets/22bb504b-0abf-4abd-a84f-23c742d7fa8c" />  
 
-（一般不用看）[Git详细配置界面](https://git-scm.com/book/zh/v2/%e8%b5%b7%e6%ad%a5-%e5%88%9d%e6%ac%a1%e8%bf%90%e8%a1%8c-Git-%e5%89%8d%e7%9a%84%e9%85%8d%e7%bd%ae)  
+（一般不用看）[Git名称邮箱详细配置教程](https://git-scm.com/book/zh/v2/%e8%b5%b7%e6%ad%a5-%e5%88%9d%e6%ac%a1%e8%bf%90%e8%a1%8c-Git-%e5%89%8d%e7%9a%84%e9%85%8d%e7%bd%ae)    
 
-<img width="1032" height="804" alt="image" src="https://github.com/user-attachments/assets/a096562b-4134-45d7-b3bb-a2bbc83cffc5" />  
-
-`git config --global user.name "John Doe"`
+`git config --global user.name "John Doe"`  
 
 `git config --global user.email johndoe@example.com`  
 
@@ -122,7 +120,7 @@ Git 是一种分布式版本控制系统，最初由 Linux 之父 林纳斯·托
 
 然后就可以查看历史更新记录了
 
-<img width="1286" height="638" alt="image" src="https://github.com/user-attachments/assets/98c207c1-6e14-4d2d-acc0-9072b591e652" />  
+<img width="1286" height="638" alt="image" src="https://github.com/user-attachments/assets/98c207c1-6e14-4d2d-acc0-9072b591e652" />    
  
 接下来将项目发布到GitHub会跳转到浏览器授权，直接同意就行
 
@@ -132,9 +130,27 @@ Git 是一种分布式版本控制系统，最初由 Linux 之父 林纳斯·托
 
 然后会出现两个选项，公开和私有，选择公开
 
-<img width="951" height="444" alt="image" src="https://github.com/user-attachments/assets/0e9de157-3a37-404e-8cf9-24aa725a31ef" />    
+<img width="951" height="444" alt="image" src="https://github.com/user-attachments/assets/0e9de157-3a37-404e-8cf9-24aa725a31ef" />      
 
 一般情况这里会上传失败，因为没有设置 代理
 
 <img width="652" height="210" alt="image" src="https://github.com/user-attachments/assets/972dc3be-b7ae-4211-bb13-fad0241e0439" />
+
+<img width="654" height="250" alt="image" src="https://github.com/user-attachments/assets/f0c6c2a6-0024-4327-a248-8fe87bb97ceb" />  
+
+[详细代理教程](https://stackoverflow.com/questions/783811/getting-git-to-work-with-a-proxy-server-fails-with-request-timed-out)
+
+将下面的信息改成自己的
+
+`git config --global http.proxy http://proxyuser:proxypwd@proxy.server.com:8080`  
+
+`git config --global http.proxy http://127.0.0.1:7897`  
+
+`git config --global https.proxy https://127.0.0.1:7897`    
+
+点击提交，就可以发现提交成功了。
+
+<img width="1513" height="902" alt="image" src="https://github.com/user-attachments/assets/716d83af-174d-4972-915c-2e01d565eb3e" />
+
+
 
