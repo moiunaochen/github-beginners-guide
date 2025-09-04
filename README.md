@@ -31,3 +31,7 @@
 
 # 二. 注册账户
 首先是在官网上注册自己的GitHub账号。 注册完成后进行简单的设置，开始创建一个属于自己的库。
+
+# 三. 创建仓库
+（注意：由于我们是免费用户，因此只能创建公共仓库）
+<img width="749" height="406" alt="image" src="https://github.com/user-attachments/assets/c29d5b4c-7489-41d5-a181-2acb14ad9aa1" />
