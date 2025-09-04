@@ -153,3 +153,5 @@ Git 是一种分布式版本控制系统，最初由 Linux 之父 林纳斯·托
 <img width="1513" height="902" alt="image" src="https://github.com/user-attachments/assets/716d83af-174d-4972-915c-2e01d565eb3e" />
 
 暂时到此结束
+
+Gitee与GitHub已相互同步
