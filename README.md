@@ -38,7 +38,7 @@
 > **注意**：免费用户只能创建公共仓库（Public）。
 
 1. 点击右上角头像旁的 **"+"** → **New repository**  
-   ![alt text](image.png)
+   ![alt text](imade\image.png)
 
 2. 填写信息：
    - **Repository name**：仓库名称
