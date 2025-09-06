@@ -38,8 +38,6 @@
 > **注意**：免费用户只能创建公共仓库（Public）。
 
 1. 点击右上角头像旁的 **"+"** → **New repository**  
-   ![!\[创建新仓库\](assets\1.png)](https://raw.githubusercontent.com/moiunaochen/github-beginners-tutorial/refs/heads/main/assets/1.png)
-
    ![alt text](image.png)
 
 2. 填写信息：
