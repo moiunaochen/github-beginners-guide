@@ -38,13 +38,14 @@
 > **注意**：免费用户只能创建公共仓库（Public）。
 
 1. 点击右上角头像旁的 **"+"** → **New repository**  
-   ![alt text](imade\image.png)
+   <img width="724" height="390" alt="image" src="https://github.com/user-attachments/assets/575bf344-e128-4fe7-8a65-e6defcc8920b" />
+
 
 2. 填写信息：
    - **Repository name**：仓库名称
    - **Description**：仓库描述（可选）
    - **Public**：选择公共仓库
-   - **Initialize this repository with a README**（可选）
+   - **Initialize this repository with a README**（可选）  
 3. 点击 **Create repository** 创建仓库。
 
 > 额外选项：
